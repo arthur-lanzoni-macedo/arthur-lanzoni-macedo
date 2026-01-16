@@ -67,7 +67,7 @@ Certificado em **Google Cloud Computing Foundations**, com experiência em
 ## 🛠️ Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,mysql,sqlite,gcp,linux,docker,vscode"/>
+  <img src="https://skillicons.dev/icons?i=python,java,git,github,mysql,sqlite,vscode" />
 </div>
 
 ---
